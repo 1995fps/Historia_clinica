@@ -1,2 +1,2 @@
 # Historia_clinica
- Proyecto creado con Python prar cargar, buscar y listar historias clinicas.
+ Proyecto creado con Python para cargar, buscar y listar historias clinicas.
